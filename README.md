@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
+My name is Victor. <br />
 
+🔭 I’m currently working on Backend developer in Selectel<br />
 
 
 <a href="https://www.linkedin.com/in/victor-pyatakov-1b8177204/">
@@ -26,8 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 
-Hello! My name is Victor. <br />
-🔭 I’m currently working on Backend developer in Selectel<br />
+
   
 **Languages and Tools:**  
 
